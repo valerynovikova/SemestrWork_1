@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/com/cloudinary/cloudinary-core/1.29.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/com/cloudinary/cloudinary-core/1.29.0" recursive="false" />
+  </library>
+</component>
